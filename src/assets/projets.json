@@ -1,0 +1,58 @@
+{
+  "projects": [
+    {
+      "title": "Booki",
+      "description": "Intégration web du site Booki",
+      "url": "https://github.com/kyslegion/Projet2OPCR",
+      "imgSrc": "https://www.zupimages.net/up/23/32/l35f.png",
+      "skill": [
+        "Intégrer du contenu conformément à une maquette avec HTML et CSS.",
+        "Implémenter une interface responsive avec HTML et CSS."
+      ]
+    },
+    {
+      "title": "Nina Carducci",
+      "description": "Optimisation et débogage du site portfolio de Nina Carducci",
+      "url": "https://github.com/kyslegion/Projet5OPCR",
+      "imgSrc": "https://www.zupimages.net/up/23/32/7s4t.jpg",
+      "skill": [
+        "Optimiser les performances d’un site web.",
+        "Déboguer un site web grâce aux Chrome DevTools.",
+        "Rédiger un cahier de recette pour tester un site."
+      ]
+    },
+    {
+      "title": "Sophie Bluel",
+      "description": "Conception de la page de présentation, de connexion administrateur, et de modale d'upload de médias.",
+      "url": "https://github.com/kyslegion/Projet3OPCR",
+      "imgSrc": "https://www.zupimages.net/up/23/32/xyaa.png",
+      "skill": [
+        "Récupérer les données utilisateurs dans le JavaScript via des formulaires.",
+        "Manipuler les éléments du DOM avec JavaScript.",
+        "Gérer les événements utilisateurs avec JavaScript."
+      ]
+    },
+    {
+      "title": "Kasa",
+      "description": "Création d'une application web de location immobilière avec React",
+      "url": "https://github.com/kyslegion/kasa",
+      "imgSrc": "https://www.zupimages.net/up/23/32/g4vd.png",
+      "skill": [
+        "Configurer la navigation entre les pages de l'application avec React Router.",
+        "Initialiser une application avec Create React App.",
+        "Développer des éléments de l'interface d'un site web grâce à des composants React."
+      ]
+    },
+    {
+      "title": "Mon Vieux Grimoire",
+      "description": "Développement du back-end d'un site de notation de livres",
+      "url": "https://github.com/kyslegion/Projet7OPCR",
+      "imgSrc": "https://www.zupimages.net/up/23/32/1ta2.png",
+      "skill": [
+        "Implémenter un modèle logique de données conformément à la réglementation.",
+        "Mettre en œuvre des opérations CRUD de manière sécurisée.",
+        "Stocker des données de manière sécurisée."
+      ]
+    }
+  ]
+}
