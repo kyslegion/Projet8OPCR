@@ -12,6 +12,7 @@ const NavContent = () => (
     <h2>Biron Christopher</h2>
     <div>
       <a href="#root">Accueil</a>
+      <a href="#formation">Formation</a>
       <a href="#work">Projets</a>
       {/* <a href="#experience">Experience</a> */}
       <a href="#services">Technologies</a>

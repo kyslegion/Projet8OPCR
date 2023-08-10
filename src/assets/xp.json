@@ -1,0 +1,33 @@
+{
+  "projects": [
+    {
+      "title": "De juillet 2021 à décembre 2022 (en Autodidacte",
+      "description": "",
+      "url": "https://github.com/kyslegion/Projet2OPCR",
+      "imgSrc": "https://www.zupimages.net/up/23/32/l35f.png",
+      "skill": [
+        "apprentissage de Python & Python OOP",
+        "apprentissage HTML/CSS/Javascript",
+        "apprentissage Node Js & MongoDB",
+        "apprentissages annexes"
+      ]
+    },
+    {
+      "title": "Du 30 décembre 2022 au 21 aout 2023 (formation openclassroom intégrateur web)",
+      "description": "",
+      "url": "https://github.com/kyslegion/Projet5OPCR",
+      "imgSrc": "https://www.zupimages.net/up/23/32/7s4t.jpg",
+      "skill": [
+        "apprentissage react",
+        "apprentissage sqlite",
+        "apprentissage postman",
+        "apprentissage swagger",
+        "apprentissage github",
+        "apprentissage agile",
+        "apprentissage optimisation Seo",
+        "Réalisation de 8 projets",
+        "(notamment booki,Nina Carducci,Sophie Bluel,Kasa,Mon Vieux Grimoire)"
+      ]
+    }
+  ]
+}

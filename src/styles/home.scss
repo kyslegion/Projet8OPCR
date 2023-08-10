@@ -7,17 +7,18 @@
         width: 100%;
 
         &:first-of-type {
-            padding-left: $p;
+            // padding-left: $p;
 
             >div {
                 border-top: 1px solid $color2;
                 height: 100%;
-                padding-top: 1rem;
-                // padding-left: 3rem;
+                padding-top: 13rem;
+                padding-left: 5rem;
 
                 >h1 {
                     // font: 900 4rem $text1;
                     // padding-left: 3rem;
+                    // margin-top: 47%;
                 }
 
                 .typewriterpara {

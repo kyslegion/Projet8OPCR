@@ -4,6 +4,16 @@
     height: 100vh;
     background-color: $color1;
 
+    #formation{
+        padding: 20px 30px;
+        background-color: #292b46;
+        color: #fef2f2;
+        /* border-radius: 6px; */
+        text-align: left;
+        text-align: center;
+        font-size: 30px;
+        margin-inline: 20%;
+    }
     #timelinebox {
         width: 100%;
         position: relative;
