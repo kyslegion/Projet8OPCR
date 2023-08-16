@@ -1,3 +1,4 @@
+  /* eslint-disable */
 import React from "react";
 import "./styles/app.scss";
 import Header from "./components/Header";
@@ -14,9 +15,7 @@ function App() {
       <Home />
       <Timeline_2 />
       <Work />
-      
       <Timeline />
-      
       <Services />
     </>
   );

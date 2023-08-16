@@ -13,7 +13,7 @@ const Work = () => {
                     // showIndicators={false}
                     // showStatus={false}
                     showThumbs={false}
-                    interval={2000}
+                    interval={200000}
                     infiniteLoop={true}
                     autoPlay={true}
                      >

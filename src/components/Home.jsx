@@ -2,9 +2,7 @@ import React, { useRef } from 'react'
 import { animate, motion } from "framer-motion";
 import Typewriter from "typewriter-effect";
 import { BsArrowUpRight, BsChevronDown } from "react-icons/bs";
-// import me from "../assets/logo.png";
 import me from "../assets/1.jpg";
-// import { useRef } from 'react';
 
 const Home = () => {
   const clientCount= useRef(null);
@@ -56,25 +54,17 @@ const Home = () => {
            Fasciné par les innombrables possibilités qu'offre la programmation informatique, je suis enthousiaste à l'idée de travailler sur de nombreux nouveaux projets pour améliorer mes compétences.
           </motion.h1>
 
-          <Typewriter options={{
-            // strings: ["Html/Css", "Javascript", "NodeJs","Mongodb/Sqlite", "NodeJs"],
+          {/* <Typewriter options={{
             autoStart: true,
             loop: true, 
             cursor: "",
             wrapperClassName: 'typewriterpara',
-          }} />
+          }} /> */}
 
           <div>
             <a href="mailto:biron.christopher.desire@gmail.com">Embauchez-moi</a>
             <a href="#work">Mes projets <BsArrowUpRight /></a>
           </div>
-          {/* <article>
-            <p>
-              +<motion.span whileInView={animationClientsCount} ref={clientCount}>
-              </motion.span>
-            </p>
-            <span>Clients WorldWide</span>:
-          </article> */}
           <aside>
 
             <article data-special>
@@ -87,7 +77,7 @@ const Home = () => {
 
 
       <section>
-          <img src={me} alt="wajahat" />
+          <img src={me} alt="biron" />
       </section>
       <BsChevronDown />
     </div>
