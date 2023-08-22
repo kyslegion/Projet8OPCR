@@ -2,8 +2,8 @@ import React, { useRef } from 'react'
 import { animate, motion } from "framer-motion";
 import Typewriter from "typewriter-effect";
 import { BsArrowUpRight, BsChevronDown } from "react-icons/bs";
-import me from "../assets/1.jpg";
-
+// import me from "../assets/1.jpg";
+import me from "../assets/2.jpg";
 const Home = () => {
   const clientCount= useRef(null);
   const projectCount= useRef(null);
